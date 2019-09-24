@@ -279,7 +279,7 @@ compress_html:
     envs: development
 
 collections:
-  개발자노트:
+  dev:
     output: true
     permalink: /:collection/:path/
     
@@ -296,7 +296,7 @@ defaults:
       comments: # true
       share: true
       related: true
-  # _개발자노트
+  # _dev
   - scope:
       path: ""
       type: 
