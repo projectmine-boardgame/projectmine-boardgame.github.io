@@ -1,6 +1,6 @@
 ---
 title: "개발자 노트 1. Project MINE이란?"
-date: 2019-9-24 19:07:28 -0400
+date: 2019-9-24 19:07
 categories: ProjectMINE DevelopmentNote
 ---
 개발자 노트 1. Project MINE이란?
