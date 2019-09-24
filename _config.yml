@@ -278,7 +278,11 @@ compress_html:
   ignore:
     envs: development
 
-
+collections:
+  개발자노트:
+    output: true
+    permalink: /:collection/:path/
+    
 # Defaults
 defaults:
   # _posts
@@ -292,3 +296,12 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _개발자노트
+  - scope:
+      path: ""
+      type: 
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
