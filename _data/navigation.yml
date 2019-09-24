@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "개발자노트"
+    url: https://projectmine-boardgame.github.io/projectmine/developmentnote/Project-MINE%EC%9D%B4%EB%9E%80/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
