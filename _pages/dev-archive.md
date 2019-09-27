@@ -1,5 +1,5 @@
 ---
-title: development note
+title: Project MINE Development Note
 layout: collection
 permalink: /dev/
 collection: dev
