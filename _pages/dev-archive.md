@@ -1,6 +1,6 @@
 ---
 title: Project MINE Development Note
-layout: collection
+layout: posts
 permalink: /dev/
 collection: dev
 author_profile: true
