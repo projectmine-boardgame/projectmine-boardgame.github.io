@@ -1,5 +1,5 @@
 ---
-title: dev
+title: development note
 layout: collection
 permalink: /dev/
 collection: dev
