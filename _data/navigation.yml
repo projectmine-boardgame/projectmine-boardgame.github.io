@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "개발자노트"
-    url: /dev/
+    url: /tags/#development
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
