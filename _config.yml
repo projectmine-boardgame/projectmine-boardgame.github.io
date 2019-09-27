@@ -306,3 +306,4 @@ defaults:
       share: true
       comment: true
       read_time: true
+      related: true
