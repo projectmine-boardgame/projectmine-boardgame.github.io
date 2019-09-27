@@ -299,7 +299,7 @@ defaults:
   # _dev
   - scope:
       path: ""
-      type: 
+      type: dev
     values:
       layout: single
       author_profile: true
