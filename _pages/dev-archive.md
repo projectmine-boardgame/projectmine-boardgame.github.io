@@ -3,6 +3,7 @@ title: Project MINE Development Note
 layout: collection
 permalink: /dev/
 collection: dev
+author_profile: true
 classes: wide
 ---
 
