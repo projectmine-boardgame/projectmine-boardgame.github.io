@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Project MINE Boardgame"
+title                    : "Project MINE"
 title_separator          : "-"
 subtitle                 : "기업 경영 덱 빌딩 카드게임"
 name                     : "VSK"
