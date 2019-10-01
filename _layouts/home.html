@@ -3,8 +3,8 @@ layout: archive
 ---
 
 {{ content }}
-<p>aaaa</p>
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts }}</h3>
+<p>aaaaㅇㅇㅇㅇㅇ</p>
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale]."최근 포스트"  | default: "최근 포스트"}}</h3>
 
 {% for post in paginator.posts %}
   {% include archive-single.html %}
