@@ -6,4 +6,4 @@ permalink: /rules/
 author_profile: false
 ---
 
-> Project MINE 규칙 리스트
+# <center>Project MINE 규칙 리스트</center>
