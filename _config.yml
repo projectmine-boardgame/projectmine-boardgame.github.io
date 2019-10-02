@@ -12,18 +12,18 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : mmistakes/minimal-mistakes
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Project MINE Boardgame"
+title                    : "Project MINE"
 title_separator          : "-"
-subtitle                 : "Deck Building Cardgame"
-name                     : "Valuekds & Sylpher"
+subtitle                 : "기업 경영 덱 빌딩 카드게임"
+name                     : "VSK"
 description              : "Developers"
 url                      : "https://projectmine-boardgame.github.io"
 baseurl                  : ""
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "projectmine-boardgame/minimal-mistakes" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -279,10 +279,10 @@ compress_html:
     envs: development
 
 collections:
-  개발자노트:
+  rules:
     output: true
     permalink: /:collection/:path/
-    
+  
 # Defaults
 defaults:
   # _posts
@@ -296,12 +296,15 @@ defaults:
       comments: # true
       share: true
       related: true
-  # _개발자노트
+  # _rules
   - scope:
       path: ""
-      type: 
+      type: rules
     values:
+      sidebar:
+        nav: "rules"
       layout: single
-      author_profile: true
       share: true
       comment: true
+      read_time: true
+      related: true

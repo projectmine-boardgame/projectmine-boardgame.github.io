@@ -1,12 +1,18 @@
 # main links
 main:
-  - title: "개발자노트"
-    url: https://projectmine-boardgame.github.io/projectmine/developmentnote/Project-MINE%EC%9D%B4%EB%9E%80/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "개발자 노트"
+    url: /tags/#developnote
+  - title: "게임 설명"
+    url: /rules/main-rules
+
+rules:
+  - title: Project MINE 룰
+    url: /rules/main-rules
+    children:
+      - title: "기업 목표 카드 룰"
+        url: /rules/original-unique-achieve
+      - title: "공용 목표 카드 룰"
+        url: /rules/original-common-achieve
+      - title: "시장 카드 룰"
+        url: /rules/original-market
+        
