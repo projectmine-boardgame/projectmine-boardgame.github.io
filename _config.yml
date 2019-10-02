@@ -304,6 +304,7 @@ defaults:
       sidebar:
         nav: "rules"
       layout: single
+      classes: wide
       share: true
       comment: true
       read_time: true
