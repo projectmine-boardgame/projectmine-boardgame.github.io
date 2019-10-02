@@ -1,5 +1,5 @@
 ---
-title : 'Project MINE Rulebook'
+title : 'Project MINE Main Rulebook'
 classes: wide
 toc: true
 toc_label: "찾아보기"
