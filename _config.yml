@@ -278,11 +278,10 @@ compress_html:
   ignore:
     envs: development
 
-collections:
-  rule:
-    output: true
-    permalink: /:collection/:path/
-    
+rules:
+  type: liquid
+  path: /rule/
+  
 # Defaults
 defaults:
   # _posts
@@ -299,7 +298,7 @@ defaults:
   # _rules
   - scope:
       path: ""
-      type: pages
+      type: rules
     values:
       layout: single
       author_profile: true
