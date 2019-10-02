@@ -1,7 +1,7 @@
 ---
 title: "개발자 노트 3. 자원"
 tag: 
-- "developNote"
+- "DevelopNote"
 date: 2019-10-03 00:19
 ---
 ## 두 번째 전략: 자원 쌓기
