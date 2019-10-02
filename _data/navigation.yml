@@ -13,16 +13,6 @@ rules:
         url: /rules/original-unique-achieve
       - title: "공용 목표 카드 룰"
         url: /rules/original-common-achieve
-      - title: "루비 카드 룰"
-        url: /rules/original-ruby
-      - title: "사파이어 카드 룰"
-        url: /rules/original-sapphire
-      - title: "에메랄드 카드 룰"
-        url: /rules/original-emerald
-      - title: "철 카드 룰"
-        url: /rules/original-iron
-      - title: "금 카드 룰"
-        url: /rules/original-gold
-      - title: "계획 카드 룰"
-        url: /rules/original-project
+      - title: "시장 카드 룰"
+        url: /rules/original-market
         
