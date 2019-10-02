@@ -301,6 +301,8 @@ defaults:
       path: ""
       type: rules
     values:
+      sidebar:
+        nav: "rules"
       layout: single
       share: true
       comment: true
