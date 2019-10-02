@@ -278,9 +278,10 @@ compress_html:
   ignore:
     envs: development
 
-rules:
-  type: liquid
-  path: /rule/
+collections:
+  rules:
+    output: true
+    permalink: /:collection/:path/
   
 # Defaults
 defaults:
