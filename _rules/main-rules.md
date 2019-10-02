@@ -1,11 +1,8 @@
 ---
-layout: single
-permalink : /rules/
 title : 'Project MINE Rulebook'
 classes: wide
 toc: true
 toc_label: "찾아보기"
-
 ---
 > # <center>자신만의 기업을 완성하여 명성을 드높여라!</center>
 
