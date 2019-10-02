@@ -1,6 +1,5 @@
 ---
 layout: posts
-classes: wide
 permalink : /rules/
 title : 'Project MINE Rulebook'
 toc: true
