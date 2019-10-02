@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink : /link
+permalink : /rules/
 title : '룰'
 ---
 Hello world
