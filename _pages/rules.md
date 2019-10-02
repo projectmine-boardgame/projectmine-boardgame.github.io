@@ -3,6 +3,7 @@ layout: splash
 permalink : /rules/
 title : 'Project MINE Rulebook'
 toc: true
+
 ---
 > # <center>자신만의 기업을 완성하여 명성을 드높여라!</center>
 
