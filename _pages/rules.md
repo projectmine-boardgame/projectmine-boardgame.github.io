@@ -4,7 +4,7 @@ permalink : /rules/
 title : 'Project MINE Rulebook'
 toc: true
 ---
-> # ***<q>자신만의 기업을 완성하여 명성을 드높여라!</q>***
+> # <center><q>자신만의 기업을 완성하여 명성을 드높여라!</q></center>
 
 Project MINE은 회사 경영을 테마로 한 덱 빌딩 카드게임입니다. 여러분들은 각 기업의 대표가 되어 카드를 사거나, 목표를 달성하거나, 또는 자원을 쌓아서 남들보다 많은 점수를 얻어야합니다.
 
