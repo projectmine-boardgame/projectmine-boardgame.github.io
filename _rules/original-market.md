@@ -1,7 +1,7 @@
 ---
 classes: wide
-title: "Project MINE 사파이어 Rule"
+title: "Project MINE 시장 카드 Rule"
 toc: true
 toc_label: 찾아보기
 ---
-사파이어
+시장카드
