@@ -279,7 +279,7 @@ compress_html:
     envs: development
 
 collections:
-  dev:
+  rule:
     output: true
     permalink: /:collection/:path/
     
@@ -296,10 +296,10 @@ defaults:
       comments: # true
       share: true
       related: true
-  # _dev
+  # _rule
   - scope:
       path: ""
-      type: dev
+      type: rule
     values:
       layout: single
       author_profile: true
