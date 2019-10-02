@@ -3,6 +3,7 @@ title: "개발자 노트 1. Project MINE이란?"
 date: 2019-9-24 19:07
 tag:
 - DevelopNote
+toc: true
 ---
 ## 회사 경영 덱 빌딩 카드게임 
 Project MINE은 회사 경영 덱 빌딩 카드게임 입니다.
