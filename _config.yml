@@ -306,6 +306,3 @@ defaults:
       layout: single
       classes: wide
       share: true
-      comment: true
-      read_time: true
-      related: true
