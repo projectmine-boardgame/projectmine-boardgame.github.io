@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "개발자노트"
+  - title: "개발자 노트"
     url: /tags/#developnote
-  - title: "룰"
+  - title: "게임 설명"
     url: /rules/
