@@ -4,3 +4,26 @@ main:
     url: /tags/#developnote
   - title: "게임 설명"
     url: /rules/main-rules
+
+rules:
+  - title: Project MINE 룰
+    children:
+      - title: "기본 룰"
+        url: /rules/main-rule
+      - title: "기업 목표 카드 룰"
+        url: /rules/original-unique-achieve
+      - title: "공용 목표 카드 룰"
+        url: /rules/original-common-achieve
+      - title: "루비 카드 룰"
+        url: /rules/original-ruby
+      - title: "사파이어 카드 룰"
+        url: /rules/original-sapphire
+      - title: "에메랄드 카드 룰"
+        url: /rules/original-emerald
+      - title: "철 카드 룰"
+        url: /rules/original-iron
+      - title: "금 카드 룰"
+        url: /rules/original-gold
+      - title: "계획 카드 룰"
+        url: /rules/original-project
+        
