@@ -1,5 +1,4 @@
 ---
-layout: splash
 permalink : /rules/
 title : 'Project MINE Rulebook'
 toc: true
