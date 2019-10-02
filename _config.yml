@@ -302,7 +302,6 @@ defaults:
       type: rules
     values:
       layout: single
-      author_profile: true
       share: true
       comment: true
       read_time: true
