@@ -1,8 +1,9 @@
 ---
-layout: posts
+layout: single
 permalink : /rules/
 title : 'Project MINE Rulebook'
 toc: true
+toc_label: "설명서 Index"
 
 ---
 > # <center>자신만의 기업을 완성하여 명성을 드높여라!</center>
