@@ -4,14 +4,7 @@ main:
     url: /tags/#developnote
   - title: "룰"
     url: /rules/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    
 sidebar-sample:
   - title: "Parent Page A"
     children:
