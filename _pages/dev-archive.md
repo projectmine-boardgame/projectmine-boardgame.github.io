@@ -1,7 +1,7 @@
 ---
 title: "Project MINE Development Note"
 layout: category
-permalink: /categories/developnote
+permalink: /categories/DevelopNote
 author_profile: true
 classes: wide
 ---
