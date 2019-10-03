@@ -1,6 +1,8 @@
 ---
 title: "개발자 노트 3. 자원"
 tag: 
+- "Resource"
+category:
 - "DevelopNote"
 date: 2019-10-03 00:19
 ---

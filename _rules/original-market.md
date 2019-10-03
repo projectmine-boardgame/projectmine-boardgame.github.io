@@ -4,8 +4,6 @@ title: "Project MINE 시장 카드 Rule"
 toc: true
 toc_label: 찾아보기
 ---
-# 시장 카드
-
 > ## **기업 특성 카드**
 
 ### **무역**

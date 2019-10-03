@@ -1,10 +1,15 @@
 ---
 title: "개발자 노트 1. Project MINE이란?"
 date: 2019-9-24 19:07
-tag:
-- DevelopNote
+tag: 
+- "Common Achieve"
+- "Unique Achieve"
+- "Resource"
+- "Market Card"
+- "Century"
+
 category:
-- DevelopNote
+- "DevelopNote"
 
 ---
 

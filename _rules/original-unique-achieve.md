@@ -4,8 +4,6 @@ title: "Project MINE 기업 목표 Rule"
 toc: true
 toc_label: 찾아보기
 ---
-# 기업 목표 카드
-
 > ## 무역 특성 기업
 
 ### 닷지

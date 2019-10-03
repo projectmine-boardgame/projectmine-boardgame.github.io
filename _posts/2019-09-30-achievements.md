@@ -1,6 +1,9 @@
 ---
 title: "개발자 노트 2. 기업 목표와 공용 목표"
 tag: 
+- "Common Achieve"
+- "Unique Achieve"
+category:
 - "DevelopNote"
 Date: 2019-09-30 22:10
 ---

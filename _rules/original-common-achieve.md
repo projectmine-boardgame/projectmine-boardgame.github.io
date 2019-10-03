@@ -4,8 +4,6 @@ title: "Project MINE 공용 목표 Rule"
 toc: true
 toc_label: 찾아보기
 ---
-# **공용 목표 카드**
-
 > ## 액티브 공용 목표
 
 ### **경량화**
