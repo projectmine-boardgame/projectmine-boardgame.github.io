@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "개발자 노트"
-    url: /tags/#developnote
+    url: /categories/DevelopNote
   - title: "게임 설명"
     url: /rules/main-rules
 
@@ -15,4 +15,14 @@ rules:
         url: /rules/original-common-achieve
       - title: "시장 카드 룰"
         url: /rules/original-market
-        
+
+DevelopNote:
+  - title: 개발자 노트
+    url: /categories/DevelopNote
+    children:
+      - title : "Project MINE 이란?"
+        url: /developnote/what-is-project-mine
+      - title : "기업 목표와 공용 목표"
+        url: /developnote/achievement
+      - title : "자원"
+        url: /developnote/resource
