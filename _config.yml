@@ -295,6 +295,7 @@ defaults:
       comments: # true
       share: true
       related: true
+      classes: wide
   # _rules
   - scope:
       path: ""
