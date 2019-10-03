@@ -1,7 +1,7 @@
 ---
-title: Project MINE Development Note
-layout: tag
-permalink: /tags/#developnote
+title: "Project MINE Development Note"
+layout: category
+permalink: /category/developnote
 author_profile: true
 classes: wide
 ---
