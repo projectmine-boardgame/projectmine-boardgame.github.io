@@ -4,6 +4,8 @@ tag:
 - "Resource"
 category:
 - "DevelopNote"
+sidebar:
+  nav: "DevelopNote"
 date: 2019-10-03 00:19
 ---
 ## 두 번째 전략: 자원 쌓기

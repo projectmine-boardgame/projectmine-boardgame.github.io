@@ -5,6 +5,8 @@ tag:
 - "Unique Achieve"
 category:
 - "DevelopNote"
+sidebar:
+  nav: "DevelopNote"
 Date: 2019-09-30 22:10
 ---
 ## 첫 번째 전략: 목표 달성하기

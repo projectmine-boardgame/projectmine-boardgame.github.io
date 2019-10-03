@@ -11,6 +11,8 @@ tag:
 category:
 - "DevelopNote"
 
+sidebar:
+  nav: "DevelopNote"
 ---
 
 
