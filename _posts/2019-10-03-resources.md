@@ -28,7 +28,6 @@ Project MINE의 초기 테마는 **경매** 게임이었습니다. 경매에 초
 ## 동전 토큰: 자원의 보상
 <figure style="width: 150px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/image/Coin@4x.png" alt="Project MINE Coin Token">
-  <figcaption>동전 토큰</figcaption>
 </figure> 
 개발 초기의 테마가 경매였기 때문에, 각 플레이어들에게 자원을 많이 모아야 하는 동기를 제공해야 했습니다. 이에 대한 방안으로, 자원을 가장 많이 모은 사람에게 매 시기마다 크레딧을 1원씩 더 주는 보너스를 부여하는 시스템을 구상했습니다.
 
