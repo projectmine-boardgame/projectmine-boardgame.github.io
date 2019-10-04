@@ -72,9 +72,10 @@ Project MINE 6번의 경쟁 시기와 몇 번의 과도기 시기를 진행합�
 
 <figure style="width:300px">
 <img src="/assets/image/라운드@4x.png" alt="Project MINE Century End 1">
-</figure>
-<figure style="width:300px">
+  <figcaption>선 플레이어의 시기 종료 선언</figcaption>
+</figure> <figure style="width:300px">
 <img src="/assets/image/라운드2@4x.png" alt="Project MINE Century End 2">
+    <figcaption>일반 플레이어의 시기 종료 선언</figcaption>
 </figure>
 
 **모든 플레이어는 한 시기에서 같은 수의 차례를 갖는다는 것을 명심하세요**
