@@ -69,11 +69,11 @@ Project MINE 6번의 경쟁 시기와 몇 번의 과도기 시기를 진행합�
 
 ### 경쟁 시기 종료
 라운드 중간에 한 플레이어의 덱이 소진되면 그 플레이어는 경쟁 시기 종료를 선언합니다. 그러면 그 라운드를 마치고 마지막으로 한 라운드를 더 진행합니다. 종료를 선언한 플레이어의 덱이 다시 채워져도 다음 라운드를 마지막으로 하여 경쟁 시기를 진행합니다. 마지막 라운드가 끝나면 경쟁 시기를 종료하고, 경쟁 시기 정리를 합니다.
-<figure style="width: 200px" class="align-left">
+<figure style="width: 350px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/image/라운드@4x.png" alt="Century End 1">
   <figcaption>선 플레이어의 시기 종료 선언</figcaption>
 </figure> 
-<figure style="width: 200px" class="align-right">
+<figure style="width: 350px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/image/라운드2@4x.png" alt="Century End 2">
   <figcaption>일반 플레이어의 시기 종료 선언</figcaption>
 </figure> 
