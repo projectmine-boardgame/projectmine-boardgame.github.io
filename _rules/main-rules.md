@@ -73,7 +73,7 @@ Project MINE 6번의 경쟁 시기와 몇 번의 과도기 시기를 진행합�
   <img src="{{ site.url }}{{ site.baseurl }}/assets/image/라운드@4x.png" alt="Century End 1">
   <figcaption>선 플레이어의 시기 종료 선언</figcaption>
 </figure> 
-<figure style="width: 350px" class="align-right">
+<figure style="width: 350px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/image/라운드2@4x.png" alt="Century End 2">
   <figcaption>일반 플레이어의 시기 종료 선언</figcaption>
 </figure> 
