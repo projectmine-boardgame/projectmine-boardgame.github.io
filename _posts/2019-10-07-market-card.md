@@ -3,6 +3,7 @@ title: "개발자 노트 4. 시장 카드"
 tag:
   - "Market Card"
   - "Resource"
+date: 2019-10-07 16:31
 category:
   - "DevelopNote"
 sidebar:
