@@ -26,3 +26,5 @@ DevelopNote:
         url: /developnote/achievements
       - title : "3. 자원"
         url: /developnote/resources
+      - title : "4. 시장 카드"
+        url: /developnote/market-card
