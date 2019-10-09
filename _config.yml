@@ -111,7 +111,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Project MINE 보드게임 제작 그룹"
   location         : "UNIST"
-  email            : "valuekds@unist.ac.kr"
+  email            : "projectmineboardgame@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
