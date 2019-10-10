@@ -1,7 +1,7 @@
 ---
-title = "명함"
-layout = splash
-permalink = /calling-card/
+title : "명함"
+layout : splash
+permalink : /calling-card/
 ---
 
 
