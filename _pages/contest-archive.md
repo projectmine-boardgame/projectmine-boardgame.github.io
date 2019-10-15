@@ -4,9 +4,9 @@ title: null
 layout: category
 permalink: /categories/Contest
 sidebar: 
-  nav: "contest"
+  nav: "Contest"
 classes: wide
-taxonomy: "contest"
+taxonomy: "Contest"
 ---
 
 > # <center> PROJECT MINE 공모전 및 펀딩 소식</center>

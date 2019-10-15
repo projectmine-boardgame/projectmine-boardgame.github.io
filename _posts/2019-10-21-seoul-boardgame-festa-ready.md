@@ -20,7 +20,7 @@ sidebar:
 
 <figure style="width:200px" align = "right"><img src="/assets/image/소형_사파이어_광산_베타.png" alt="Project MINE 베타 일러스트"> <figcaption><center>앞으로 우리에게 디자인은 맡기지 마라</center></figcaption></figure> 심지어 개발진들의 디자인 감각이 꽤나 심각해서 보다못한 카르넨이 모두 일러 작업을 했답니다.
 
- <figure style="width:300px" align="left"><img src="/assets/image/소형_사파이어_광산_신.png" alt="Project MINE 신 일러스트"> <figcaption><center>깔ㅡ끔</center></figcaption></figure> 
+ <figure style="width:200px" align="left"><img src="/assets/image/소형_사파이어_광산_신.png" alt="Project MINE 신 일러스트"> <figcaption><center>깔ㅡ끔</center></figcaption></figure> 
 
 당연하지만, 아직까지 베타버전이고 일러스트는 계속 바뀔 여지가 있습니다! 다음에 시연할 기회가 있을 때에는 더 나은 모습을 보여드릴테니 다음 시연회를 기대해주세요~
 
@@ -38,7 +38,7 @@ sidebar:
 
 아직까지는 펀딩을 하지 않고 피드백을 받을 단계이기 때문에 카드로 인쇄하지 않았어요. 대신 흑지와 프로텍터를 이용해서 카드처럼 보이게 했죠. 
 
- <figure style="width:500px" align = "center"><img src="/assets/image/ProjectMINE카드더미들.jpg" alt="Project MINE 카드 더미들"> <figcaption><center>이걸 600장 넘게 접었답니다...</center></figcaption></figure> 
+ <figure style="width:500px" align = "center"><img src="/assets/image/ProjectMINE_카드더미들.jpg" alt="Project MINE 카드 더미들"> <figcaption><center>이걸 600장 넘게 접었답니다...</center></figcaption></figure> 
 
 생각보다 무겁지도 않고, 촉감도 좋았습니다! 일러스트를 제작한 후 처음 인쇄하는 카드라 꽤나 감격스러운 순간이었죠. 마음같아서는 카드를 다 만들고 바로 플레이하고싶었지만, 시간이 어느새 새벽 6시더군요 ㅠㅠ 테스트를 뒤로 한채 각자의 집에서 한숨 잤습니다~
 
@@ -54,7 +54,7 @@ sidebar:
 
 이렇게 저희 Team.VSK는 페스타에 나가서 팔 수 있을 정도(?)의 퀄리티에 가깝게 만들었습니다! 실제로 꽤나 많은 분들이 게임을 즐겨주시고 펀딩 계획에 대해서도 물어봐주셨는데, 이번 페스타에서의 피드백을 받아 더욱 좋은 모습으로 찾아뵙겠습니다!
 
- <figure style="width:300px"><img src="/assets/image/ProjectMINE_프로토타입.png" alt="Project MINE 프로토타입"> <figcaption><center>거의 완성된 프로토버전!</center></figcaption></figure> 
+ <figure style="width:300px"><img src="/assets/image/ProjectMINE_프로토타입.jpg" alt="Project MINE 프로토타입"> <figcaption><center>거의 완성된 프로토버전!</center></figcaption></figure> 
 
 
 

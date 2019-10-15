@@ -2,8 +2,8 @@
 main:
   - title: "개발자 노트"
     url: /categories/DevelopNote
-  - title: "시연 및 펀딩"
-    url: /categories/Contest
+#  - title: "시연 및 펀딩"
+#    url: /categories/Contest
   - title: "게임 설명"
     url: /rules/main-rules
 
@@ -37,10 +37,10 @@ DevelopNote:
 
         
         
-Contest:
-  - title: 서울 보드게임 페스타
-    children:
-      - title: "서울 보드게임 페스타 준비"
-        url: /contest/seoul-boardgame-festa-ready
-      - title: "서울 보드게임 페스타 피드백"
-        url: /contest/seoul-boardgame-festa-feedback
+#Contest:
+#  - title: 서울 보드게임 페스타
+#    children:
+#      - title: "서울 보드게임 페스타 준비"
+#        url: /contest/seoul-boardgame-festa-ready
+#      - title: "서울 보드게임 페스타 피드백"
+#        url: /contest/seoul-boardgame-festa-feedback
