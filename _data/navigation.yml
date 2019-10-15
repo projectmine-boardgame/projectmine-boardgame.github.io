@@ -2,6 +2,8 @@
 main:
   - title: "개발자 노트"
     url: /categories/DevelopNote
+  - title: "시연 및 펀딩"
+    url: /categories/Contest
   - title: "게임 설명"
     url: /rules/main-rules
 

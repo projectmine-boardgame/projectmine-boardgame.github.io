@@ -282,6 +282,9 @@ collections:
   rules:
     output: true
     permalink: /:collection/:path/
+  rules_archive:
+    output: true
+    permalink: /:collection/:path/
   
 # Defaults
 defaults:
@@ -303,6 +306,14 @@ defaults:
     values:
       sidebar:
         nav: "rules"
+      layout: single
+      classes: wide
+      share: true
+  # _rules_archive
+  - scope:
+      path: ""
+      type: rules_archive
+    values:
       layout: single
       classes: wide
       share: true
