@@ -32,3 +32,13 @@ DevelopNote:
         url: /developnote/century
         - title: "6. 차례"
         url: /developnote/turn 
+
+        
+        
+Contest:
+  - title: 서울 보드게임 페스타
+    children:
+      - title: "서울 보드게임 페스타 준비"
+        url: /contest/seoul-boardgame-festa-ready
+      - title: "서울 보드게임 페스타 피드백"
+        url: /contest/seoul-boardgame-festa-feedback
