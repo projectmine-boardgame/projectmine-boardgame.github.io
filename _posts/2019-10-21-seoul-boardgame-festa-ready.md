@@ -54,7 +54,7 @@ sidebar:
 
 이렇게 저희 Team.VSK는 페스타에 나가서 팔 수 있을 정도(?)의 퀄리티에 가깝게 만들었습니다! 실제로 꽤나 많은 분들이 게임을 즐겨주시고 펀딩 계획에 대해서도 물어봐주셨는데, 이번 페스타에서의 피드백을 받아 더욱 좋은 모습으로 찾아뵙겠습니다!
 
- <figure style="width:300px"><img src="/assets/image/ProjectMINE_프로토타입.jpg" alt="Project MINE 프로토타입"> <figcaption><center>거의 완성된 프로토버전!</center></figcaption></figure> 
+ <figure style="height:300px"><img align = "center" src="/assets/image/ProjectMINE_프로토타입.jpg" alt="Project MINE 프로토타입"> <figcaption><center>거의 완성된 프로토버전!</center></figcaption></figure> 
 
 
 
