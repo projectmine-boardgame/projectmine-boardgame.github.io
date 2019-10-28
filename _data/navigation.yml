@@ -32,9 +32,10 @@ DevelopNote:
         url: /developnote/market-card
       - title : "5. 경쟁 시기와 과도기 시기"
         url: /developnote/century
-      - title: "6. 차례"
+      - title : "6. 차례"
         url: /developnote/turn 
-
+#      - title : "7. 룰의 변화: 목표와 동전 토큰"
+#        url: /developnote/change-rule
         
         
 Contest:
@@ -42,5 +43,5 @@ Contest:
     children:
       - title: "서울 보드게임 페스타 준비"
         url: /contest/seoul-boardgame-festa-ready
-#      - title: "서울 보드게임 페스타 피드백"
-#        url: /contest/seoul-boardgame-festa-feedback
+      - title: "서울 보드게임 페스타 피드백"
+        url: /contest/seoul-boardgame-festa-feedback
