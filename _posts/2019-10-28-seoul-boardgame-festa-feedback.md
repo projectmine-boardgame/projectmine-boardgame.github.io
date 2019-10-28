@@ -6,7 +6,7 @@ sidebar:
   nav: "Contest"
 ---
 
-안녕하세요, Team. VSK에서 V를 담당하고 있는 밸류입니다! [지난 포스팅](https://projectmine-boardgame.github.io/Contest/seoul-boardgame-festa-ready "서울 보드게임 페스타 준비")에서 뵀었죠? 지난번 말미에 적은대로, 이번 포스팅에서는 많은 분들의 피드백에 대해서 이야기 드리려 합니다! 아무리 내부에서 베타테스트를 많이 진행했다고 해도 주변의 표본에 대한 한계가 있겠죠? 
+안녕하세요, Team. VSK에서 V를 담당하고 있는 밸류입니다! [지난 포스팅](https://projectmine-boardgame.github.io/contest/seoul-boardgame-festa-ready "서울 보드게임 페스타 준비")에서 뵀었죠? 지난번 말미에 적은대로, 이번 포스팅에서는 많은 분들의 피드백에 대해서 이야기 드리려 합니다! 아무리 내부에서 베타테스트를 많이 진행했다고 해도 주변의 표본에 대한 한계가 있겠죠? 
 
 ## 속도가 안나는 덱빌딩
 
