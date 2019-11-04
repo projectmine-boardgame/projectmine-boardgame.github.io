@@ -34,8 +34,8 @@ DevelopNote:
         url: /developnote/century
       - title : "6. 차례"
         url: /developnote/turn 
-#      - title : "7. 룰의 변화: 목표와 동전 토큰"
-#        url: /developnote/change-rule
+      - title : "7. 룰의 변화: 목표와 동전 토큰"
+        url: /developnote/change-rule
         
         
 Contest:
