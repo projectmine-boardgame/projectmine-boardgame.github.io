@@ -6,9 +6,9 @@ tag:
 - "Unique Achieve"
 category:
 - "DevelopNote"
-  sidebar:
-    nav: "DevelopNote"
-
+sidebar:
+  nav: "DevelopNote"
+Date: 2019-11-04 22:00
 ---
 
 ## 한 명이 자원을 쌓으면 쫒아가기 힘들다
