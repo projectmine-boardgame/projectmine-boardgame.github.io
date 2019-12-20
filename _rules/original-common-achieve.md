@@ -4,6 +4,7 @@ title: "Project MINE 공용 목표 Rule"
 toc: true
 toc_label: 찾아보기
 ---
+> # 현재는 룰이 개정되었습니다. 왼쪽 네비게이션 바를 이용해주세요
 > ## 액티브 공용 목표
 
 ### **경량화**
