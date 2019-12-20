@@ -10,14 +10,7 @@ main:
 rules:
   - title: Project MINE 룰
     url: /rules/main-rules-v2
-    children:
-      - title: "기업 카드 룰"
-        url: /rules/original-unique-achieve-v2
-      - title: "계약서 카드 룰"
-        url: /rules/original-common-achieve-v2
-      - title: "기술 카드 룰"
-        url: /rules/original-market-v2
-
+    
 DevelopNote:
   - title: 개발자 노트
     url: /categories/DevelopNote
@@ -36,7 +29,7 @@ DevelopNote:
         url: /developnote/turn 
       - title : "7. 룰의 변화: 목표와 동전 토큰"
         url: /developnote/change-rule
-      - title : "8. 룰의 변화": 카드와 폐기 시스템"
+      - title : "8. 룰의 변화: 카드와 폐기 시스템"
         url: /developnote/change-rule-II
         
         
