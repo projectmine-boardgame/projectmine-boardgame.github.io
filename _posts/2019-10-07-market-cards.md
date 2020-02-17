@@ -1,5 +1,5 @@
 ---
-title: "개발자 노트 4. 시장 카드"
+title: "개발자 노트 4. 시장 카드 - 구 버전"
 tag:
   - "Market Card"
   - "Resource"
@@ -9,6 +9,7 @@ category:
 sidebar:
   nav: "DevelopNote"
 ---
+> ## 11월에 룰이 전반적으로 개편되었기 때문에 이 글은 현재 룰과 다를 수 있습니다.
 
 ## 세 번째 전략: 시장 카드 구매
 
