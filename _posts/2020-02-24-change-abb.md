@@ -1,16 +1,14 @@
+
 ---
-title: "개발자 노트 9. 용어의 변화"
+title: "개발자 노트 8. 룰의 변화: 카드와 폐기 시스템"
 tag:
 - "Market Card"
-- "Common Achieve"
 category:
 - "DevelopNote"
-  sidebar:
-    nav: "DevelopNote"
-    
+sidebar:
+  nav: "DevelopNote"
 Date: 2019-11-18 22:00
 ---
-
 ## 용어의 변화
 
 안녕하세요, Project MINE의 Team. VSK입니다! 지난 부산 보드게임콘 이후로 많은 분들이 놀러오셨을거라 생각되는데, 저희가 아무래도 대학생이고 펀딩이 다가오다보니 블로그 관리에 소홀해진 면이 있었네요 ㅠ.ㅠ 정말 오랜만에 포스팅을 합니다! 
