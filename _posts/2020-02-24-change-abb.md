@@ -7,6 +7,8 @@ category:
 - "DevelopNote"
   sidebar:
     nav: "DevelopNote"
+    
+Date: 2019-11-18 22:00
 ---
 
 ## 용어의 변화
