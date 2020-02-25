@@ -1,13 +1,13 @@
-
 ---
-title: "개발자 노트 8. 룰의 변화: 카드와 폐기 시스템"
+title: "개발자 노트 9. 용어의 변화"
 tag:
-- "Market Card"
+ - "Market Card"
+ - "Common Achieve"
 category:
-- "DevelopNote"
+ - "DevelopNote"
 sidebar:
-  nav: "DevelopNote"
-Date: 2019-11-18 22:00
+   nav: "DevelopNote"
+Date: 2020-02-24 22:00
 ---
 ## 용어의 변화
 
