@@ -33,7 +33,8 @@ DevelopNote:
         url: /developnote/change-rule-II
       - title : "9. 용어의 변화"
         url: /developnote/change-abb
-        
+      - title : "10. 밸런스 패치"
+        url: /developnote/balance-patch-philosophy
         
 Contest:
   - title: 서울 보드게임 페스타
