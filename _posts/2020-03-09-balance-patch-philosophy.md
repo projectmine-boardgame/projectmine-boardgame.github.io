@@ -8,7 +8,6 @@ category:
   sidebar:
     nav: "DevelopNote"
 ---
-
 ## 밸런스 패치
 
 안녕하세요, Project MINE의 Team. VSK입니다! 코로나 바이러스 때문에 개강이 연기되어서 격주마다 쓰기로 한걸 무시하고 한 주만에 달려왔네요. 모두 사람 많은 곳은 조심하고 마스크 꼭 챙기시길 바랍니다!
