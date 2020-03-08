@@ -2,7 +2,7 @@
 title: "개발자 노트 10. 밸런스 패치"
 tag:
 - "Market Card"
-- "Unique Achieve Card"
+- "Unique Achieve"
 category:
 - "DevelopNote"
 sidebar:
