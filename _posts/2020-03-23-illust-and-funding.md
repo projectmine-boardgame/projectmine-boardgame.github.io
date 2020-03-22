@@ -6,9 +6,8 @@ tag:
 - "Unique Achieve Card"
 category:
 - "DevelopNote"
-  sidebar:
-    nav: "DevelopNote"
-
+sidebar:
+  nav: "DevelopNote"
 ---
 
 ## 일러스트와 펀딩
