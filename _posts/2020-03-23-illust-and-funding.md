@@ -4,6 +4,7 @@ tag:
 - "Market Card"
 - "Common Achieve Card"
 - "Unique Achieve Card"
+- "Funding"
 category:
 - "DevelopNote"
 sidebar:
