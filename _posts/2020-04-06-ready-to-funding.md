@@ -1,13 +1,12 @@
 ---
 title: "개발자 노트 12. 점점 다가오는 시작점"
 tag:
+- "Funding"
 category:
 - "DevelopNote"
 sidebar:
   nav: "DevelopNote"
 ---
-
-## 일러스트와 펀딩
 
 ## 점점 다가오는 시작점
 
@@ -91,4 +90,4 @@ sidebar:
 
 (*) 별첨: 저희 렌더링을 샘플로 보여드릴게요! 실제로 스토리 보드에 올라가는 사진은 이와 다를 수 있습니다.
 
-<figure style="width:400px" align = "center"><img src="/assets/image/render.png" alt="Project MINE 티저"> <figcaption><center>Project MINE Teaser</center></figcaption></figure>
+<figure align = "center"><img src="/assets/image/render.png" alt="Project MINE 티저"> <figcaption><center>Project MINE Teaser</center></figcaption></figure>
