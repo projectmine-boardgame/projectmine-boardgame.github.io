@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Project MINE"
+title                    : "Project:MINE"
 title_separator          : "-"
 subtitle                 : "기업 경영 덱 빌딩 카드게임"
 name                     : "VSK"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "VSK"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Project MINE 보드게임 제작 그룹"
+  bio              : "Project:MINE 보드게임 제작 "
   location         : "UNIST"
   email            : "projectmineboardgame@gmail.com"
   links:
