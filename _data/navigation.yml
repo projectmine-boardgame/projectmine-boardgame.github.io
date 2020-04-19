@@ -15,7 +15,7 @@ DevelopNote:
   - title: 개발자 노트
     url: /categories/DevelopNote
     children:
-      - title : "1. Project MINE 이란?"
+      - title : "1. Project:MINE 이란?"
         url: /developnote/what-is-Project-MINE
       - title : "2. 기업 목표와 공용 목표"
         url: /developnote/achievements
@@ -47,4 +47,3 @@ Contest:
         url: /contest/seoul-boardgame-festa-ready
       - title: "서울 보드게임 페스타 피드백"
         url: /contest/seoul-boardgame-festa-feedback
-  - title: 부산 보드게임콘
