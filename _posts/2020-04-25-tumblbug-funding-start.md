@@ -2,6 +2,7 @@
 title: "텀블벅 프로젝트 시작!"
 category:
 - "Contest"
+- "DevelopNote"
 sidebar:
   nav: "Contest"
 ---
